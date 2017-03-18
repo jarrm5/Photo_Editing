@@ -25,6 +25,18 @@ import android.widget.TextView;
 import java.io.FileNotFoundException;
 import java.io.InputStream;
 
+/*
+    Reviewed by James Rinella
+
+    Unfortunately I'm unable to run it since there's missing dependencies after I cloned it?
+    so I'll just look at the code.
+
+    Overall, looks good. Nice seperation of concerns in your code
+
+    I don't know much about cameras; sorry I'm useless :'(
+
+ */
+
 
 public class MainActivity extends AppCompatActivity {
 
